@@ -12,8 +12,6 @@ namespace ToDoList
   {
     public static string ConnectionString = "Data Source=(localdb)\\mssqllocaldb;InitialCatalog=todo;Integrated Security=SSPI";
   }
-  
-  }
 
   public class Startup
   {
